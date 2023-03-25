@@ -1,0 +1,12 @@
+@media only screen and (min-width:280px) and (max-width:500px) {
+    #section_2::before{
+        height:254%
+    }
+  }
+  .item a {
+    font-size: 11px;
+}
+.section--service {
+    
+    order: 2;
+}
