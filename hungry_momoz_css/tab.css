@@ -1,0 +1,44 @@
+/* navbar */
+#logo {
+    
+    margin-right: 0px; 
+}
+.item a{
+    font-size: 20px;
+}
+
+/* section1 */
+
+.section_1{
+flex-wrap: wrap;
+justify-content:center;
+
+
+}
+.section--service{
+    font-size:16px;
+height:455px;
+order:2
+}
+.btn{padding:5px;
+    font-size:16px;
+    margin:0px
+}
+/* main-text */
+.main-text{
+    left:0px;
+    height: 450px;
+    width: 500px;
+    margin:100px;
+}
+
+/* section2 */
+.section_2{
+    flex-wrap:wrap;
+    height:863px;
+}
+
+.box {
+    margin: 0px 60px;
+    
+}
